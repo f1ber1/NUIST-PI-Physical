@@ -6,7 +6,7 @@ import time
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
 def quiz():
-	print("Welcome to the Animal Quiz")
+	print("Welcome to the python Quiz")
 	print("Answer the following questions:")
 
 #Questing and Answers
